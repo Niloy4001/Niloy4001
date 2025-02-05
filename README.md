@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hey  I'm Niloy</h1>
+<h1 align="left">Hey  I'm HS Niloy</h1>
 
 ###
 
-<h3 align="left">I am a Frontend Developer, I develope beautiful website</h3>
+<h3 align="left">I am a Frontend Developer, I make awesome website with , javascript , reactJs, tailwindCSS and I have basic level idea of expressjs, mongodb, nodejs</h3>
 
 ###
 
