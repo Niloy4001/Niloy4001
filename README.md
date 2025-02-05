@@ -81,7 +81,7 @@
 ###
 
 <div align="left flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Niloy4001&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Niloy4001&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph"  />
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=Niloy4001&theme=dark" alt="GitHub Streak">
 </a>
