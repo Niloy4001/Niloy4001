@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="383" src="https://i.ibb.co.com/jH7xp4d/github-banner.png"  />
+  <img height="383" src="https://i.ibb.co.com/WWT9T5zt/HS-Niloy-1.png"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">I am a Frontend Developer, I make awesome website with , javascript , reactJs, tailwindCSS and I have basic level idea of expressjs, mongodb, nodejs</h3>
+<h3 align="left">I am a MERN Stack Developer, I make awesome website with , javascript , reactJs, tailwindCSS and I have basic level idea of expressjs, mongodb, nodejs</h3>
 
 ###
 
