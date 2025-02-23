@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">I am a MERN Stack Developer, I make awesome website with , javascript , reactJs, tailwindCSS and I have basic level idea of expressjs, mongodb, nodejs</h3>
+<h3 align="left">I am a React Developer, I make awesome website with , javascript , reactJs, tailwindCSS and I have basic level idea of expressjs, mongodb, nodejs</h3>
 
 ###
 
