@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  NextJs<br>🎯 Goals: Become best developer<br>🎲 In Free time : I like to hear audio book</p>
+<p align="left">📚 I'm currently learning  C++ for DSA<br>🎯 Goals: Become best developer<br>🎲 In Free time : I like to hear audio book</p>
 
 ###
 
